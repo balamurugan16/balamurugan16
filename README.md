@@ -1,17 +1,10 @@
-<h1 align="center">Hi 👋, I'm Balamurugan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Bala</h1>
+<h3 align="center">Full Stack Developer - Technical Lead - 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balamurugan16&label=Profile%20views&color=0e75b6&style=flat" alt="balamurugan16" /> </p>
 
-- 🌱 I’m currently learning **Go**
+- 📫 How to reach me **balamurugand16@gmail.com**
 
-- 💬 Ask me about **React, TypeScript**
-
-- 📫 How to reach me **balamurugan.07@outlook.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
